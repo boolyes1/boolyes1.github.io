@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About me
+=====
 
 I'm a third year undergraduate student from [ShangHai JiaoTong University](https://www.sjtu.edu.cn/). My research interest includes high dimensional convariance matrix estimation, chaotic dynamics and diffusion model.
 
