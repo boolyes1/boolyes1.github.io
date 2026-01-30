@@ -1,15 +1,7 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 About me
 =====
 
-I'm a third year undergraduate student from [ShangHai JiaoTong University](https://www.sjtu.edu.cn/). My research interest includes high dimensional convariance matrix estimation, chaotic dynamics and diffusion model.
+I'm a third year undergraduate student from [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). My research interest includes high dimensional convariance matrix estimation, chaotic dynamics and diffusion model.
 
 
 A data-driven personal website
