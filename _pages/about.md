@@ -14,6 +14,6 @@ I'm a third year undergraduate student from [Shanghai Jiaotong University](https
 Publication
 =====
 
-A New Anomaly Detection via the Multiple Instance Learning for Sequence Data with Application to the Credit Card Delinquency Risk Control. Zhenguo Gao, **Yihao Bu**, Xiaoxun Li, and Xiaoning Kang*. Under Review.
+A New Anomaly Detection via the Multiple Instance Learning for Sequence Data with Application to the Credit Card Delinquency Risk Control. Zhenguo Gao, **Yihao Bu**, Xiaoxun Li, and Xiaoning Kang*. Statistical Theory and Related Fields TSTF.
 
 Diffusion Model Sampling Mechanism: Transient Chaotic Dynamics Perspective. **Yihao Bu**, Dan Lian, Zhenguo Gao*. Under Review.
