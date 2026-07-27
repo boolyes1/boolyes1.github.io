@@ -14,19 +14,14 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0009-0006-9431-4642",
+        "url": "https://orcid.org/0009-0006-9431-4642"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "boolyes1",
+        "url": "https://github.com/boolyes1"
       }
     ]
   },
