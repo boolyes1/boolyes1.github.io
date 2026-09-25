@@ -16,4 +16,4 @@ Publication
 
 A New Anomaly Detection via the Multiple Instance Learning for Sequence Data with Application to the Credit Card Delinquency Risk Control. Zhenguo Gao, **Yihao Bu**, Xiaoxun Li, and Xiaoning Kang*. Statistical Theory and Related Fields TSTF.
 
-Diffusion Model Sampling Mechanism: Transient Chaotic Dynamics Perspective. **Yihao Bu**, Dan Lian, Zhenguo Gao*. Under Review.
+A Favorable Regime Between ODE and SDE for Few-Step Diffusion Sampling. **Yihao Bu**, Dan Lian, Zhenguo Gao*. Nips2026 Poster.
